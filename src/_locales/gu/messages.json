@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "વાન્ડા માછલી સુખ આગાહી",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "વાન્ડા માછલી સુખ આગાહી.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "ફિશ ફિશ",
+    "description": "The button text displayed in Popup."
+  }
+}

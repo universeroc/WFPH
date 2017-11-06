@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Samaki ya Wanda Kutabiri Furaha",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Samaki ya Wanda Kutabiri Furaha.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Bure Samaki",
+    "description": "The button text displayed in Popup."
+  }
+}

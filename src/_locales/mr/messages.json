@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "वांडा फिश आनंदाचा अंदाज लावतो",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "वांडा फिश आनंदाचा अंदाज लावतो.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "मत्स्यमुक्त करा",
+    "description": "The button text displayed in Popup."
+  }
+}

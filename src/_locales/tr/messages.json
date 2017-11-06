@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Wanda Balıkları, Mutluluğu Tahmin Ettiler",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Wanda Balıkları, Mutluluğu Tahmin Etti.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Bedava balık",
+    "description": "The button text displayed in Popup."
+  }
+}

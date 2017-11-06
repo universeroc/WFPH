@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "萬達魚預言幸福",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "萬達魚預言幸福。",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "免費魚",
+    "description": "The button text displayed in Popup."
+  }
+}

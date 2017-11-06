@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Wanda Fish Hulaan ang Kaligayahan",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Wanda Fish Hulaan ang Kaligayahan.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Libre Ang Isda",
+    "description": "The button text displayed in Popup."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Уанда рибите предсказват щастието",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Уанда рибите предсказват щастието.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Свободно рибата",
+    "description": "The button text displayed in Popup."
+  }
+}

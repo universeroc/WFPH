@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Ванда Риба передбачає щастя",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Ванда Риба передбачає щастя.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Безкоштовна риба",
+    "description": "The button text displayed in Popup."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "വാണ്ട ഫിഷ് പ്രവചിക്കുന്നതിൽ സന്തോഷം",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "വാണ്ട ഫിഷ് പ്രവചിക്കുന്നതിൽ സന്തോഷം.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "സ്വതന്ത്ര മത്സ്യം",
+    "description": "The button text displayed in Popup."
+  }
+}

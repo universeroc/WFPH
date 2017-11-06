@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Ryby Wanda predvídajú šťastie",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Ryby Wanda predvídajú šťastie.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Voľné ryby",
+    "description": "The button text displayed in Popup."
+  }
+}

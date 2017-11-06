@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "완다 피시의 행복 예측",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "완다 피시 행복을 예측합니다.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "물고기를 해방하십시오",
+    "description": "The button text displayed in Popup."
+  }
+}

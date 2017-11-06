@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Cá Wanda dự đoán Hạnh phúc",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Cá Wanda dự đoán Hạnh phúc.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Miễn phí cá",
+    "description": "The button text displayed in Popup."
+  }
+}

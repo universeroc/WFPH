@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ವಂಡಾ ಮೀನು ಸಂತೋಷವನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತದೆ",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ವಂಡಾ ಮೀನು ಸಂತೋಷವನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತದೆ.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "ಉಚಿತ ಮೀನು",
+    "description": "The button text displayed in Popup."
+  }
+}

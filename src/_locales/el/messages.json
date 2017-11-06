@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Τα ψάρια Wanda προβλέπουν την ευτυχία",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Τα ψάρια Wanda προβλέπουν την ευτυχία.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Δωρεάν τα ψάρια",
+    "description": "The button text displayed in Popup."
+  }
+}

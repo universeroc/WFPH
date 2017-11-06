@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Wanda Fish predice la felicidad",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Wanda Fish predice la felicidad.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Gratis The Fish",
+    "description": "The button text displayed in Popup."
+  }
+}

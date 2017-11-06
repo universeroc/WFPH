@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "I pesci di Wanda predicono la felicità",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "I pesci di Wanda predicono la felicità.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Libero Il Pesce",
+    "description": "The button text displayed in Popup."
+  }
+}

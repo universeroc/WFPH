@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "वांडा मछली की भविष्यवाणी कीजिए",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "वांडा मछली की भविष्यवाणी कीजिए",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "नि: शुल्क मछली",
+    "description": "The button text displayed in Popup."
+  }
+}

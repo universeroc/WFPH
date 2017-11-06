@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Wanda zivis prognozē laimi",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Wanda zivis prognozē laimi.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Bezmaksas zivis",
+    "description": "The button text displayed in Popup."
+  }
+}

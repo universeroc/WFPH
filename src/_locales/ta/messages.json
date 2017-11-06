@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "வாண்டா மீன் மகிழ்ச்சியை முன்னறிவிக்கிறது",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "வாண்டா மீன் மகிழ்ச்சியை முன்னறிவிக்கிறது.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "இலவச மீன்",
+    "description": "The button text displayed in Popup."
+  }
+}

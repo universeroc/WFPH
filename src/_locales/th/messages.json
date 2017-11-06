@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ปลาแวนด้าทำนายความสุข",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ปลาแวนด้าทำนายความสุข",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "ปลาฟรี",
+    "description": "The button text displayed in Popup."
+  }
+}

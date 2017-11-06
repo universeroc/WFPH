@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "వండ ఫిష్ ప్రిడిక్ట్ హ్యాపీనెస్",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "వండ ఫిష్ ప్రిడిక్ట్ హ్యాపీనెస్.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "ఉచిత ఫిష్",
+    "description": "The button text displayed in Popup."
+  }
+}

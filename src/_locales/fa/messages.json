@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "واندا ماهی شادی را پیش بینی می کند",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "واندا ماهی شادی را پیش بینی می کند.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "رایگان ماهی",
+    "description": "The button text displayed in Popup."
+  }
+}

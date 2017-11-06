@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Wanda kala ennustab õnne",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Wanda kala ennustab õnne.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Vaba kala",
+    "description": "The button text displayed in Popup."
+  }
+}

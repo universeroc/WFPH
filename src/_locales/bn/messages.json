@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ওয়ান্দা মাছ সুখ অনুমান",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ওয়ান্দা মাছ সুখ অনুমান।",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "ফ্রি মাছ",
+    "description": "The button text displayed in Popup."
+  }
+}

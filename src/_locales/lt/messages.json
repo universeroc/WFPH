@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Wanda žuvis prognozuoja laimę",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Wanda žuvis prognozuoja laimę.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupFreeTheFishButtonText": {
+    "message": "Nemokama žuvis",
+    "description": "The button text displayed in Popup."
+  }
+}
